@@ -1,0 +1,6 @@
+C:\Users\kripajha\source\repos\MicroBlogging\AppConst\bin\Debug\AppConst.dll
+C:\Users\kripajha\source\repos\MicroBlogging\AppConst\bin\Debug\AppConst.pdb
+C:\Users\kripajha\source\repos\MicroBlogging\AppConst\obj\Debug\AppConst.csprojResolveAssemblyReference.cache
+C:\Users\kripajha\source\repos\MicroBlogging\AppConst\obj\Debug\AppConst.csproj.CoreCompileInputs.cache
+C:\Users\kripajha\source\repos\MicroBlogging\AppConst\obj\Debug\AppConst.dll
+C:\Users\kripajha\source\repos\MicroBlogging\AppConst\obj\Debug\AppConst.pdb

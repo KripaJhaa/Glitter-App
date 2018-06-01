@@ -1,0 +1,12 @@
+C:\Users\kripajha\source\repos\MicroBlogging\ModelsDTO\bin\Debug\ModelsDTO.dll
+C:\Users\kripajha\source\repos\MicroBlogging\ModelsDTO\bin\Debug\ModelsDTO.pdb
+C:\Users\kripajha\source\repos\MicroBlogging\ModelsDTO\obj\Debug\ModelsDTO.csproj.CoreCompileInputs.cache
+C:\Users\kripajha\source\repos\MicroBlogging\ModelsDTO\obj\Debug\ModelsDTO.dll
+C:\Users\kripajha\source\repos\MicroBlogging\ModelsDTO\obj\Debug\ModelsDTO.pdb
+C:\Users\kripajha\source\repos\MicroBlogging\ModelsDTO\bin\Debug\ModelsDTO.dll.config
+C:\Users\kripajha\source\repos\MicroBlogging\ModelsDTO\bin\Debug\EntityFramework.dll
+C:\Users\kripajha\source\repos\MicroBlogging\ModelsDTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kripajha\source\repos\MicroBlogging\ModelsDTO\bin\Debug\EntityFramework.xml
+C:\Users\kripajha\source\repos\MicroBlogging\ModelsDTO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kripajha\source\repos\MicroBlogging\ModelsDTO\obj\Debug\ModelsDTO.csproj.CopyComplete
+C:\Users\kripajha\source\repos\MicroBlogging\ModelsDTO\obj\Debug\ModelsDTO.csprojResolveAssemblyReference.cache

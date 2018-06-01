@@ -1,0 +1,17 @@
+C:\Users\kripajha\source\repos\MicroBlogging\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\kripajha\source\repos\MicroBlogging\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\kripajha\source\repos\MicroBlogging\DAL\bin\Debug\DAL.dll.config
+C:\Users\kripajha\source\repos\MicroBlogging\DAL\bin\Debug\DAL.dll
+C:\Users\kripajha\source\repos\MicroBlogging\DAL\bin\Debug\DAL.pdb
+C:\Users\kripajha\source\repos\MicroBlogging\DAL\bin\Debug\EntityFramework.dll
+C:\Users\kripajha\source\repos\MicroBlogging\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kripajha\source\repos\MicroBlogging\DAL\bin\Debug\ModelsDTO.dll
+C:\Users\kripajha\source\repos\MicroBlogging\DAL\bin\Debug\ModelsDTO.pdb
+C:\Users\kripajha\source\repos\MicroBlogging\DAL\bin\Debug\EntityFramework.xml
+C:\Users\kripajha\source\repos\MicroBlogging\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kripajha\source\repos\MicroBlogging\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\kripajha\source\repos\MicroBlogging\DAL\obj\Debug\DAL.dll
+C:\Users\kripajha\source\repos\MicroBlogging\DAL\obj\Debug\DAL.pdb
+C:\Users\kripajha\source\repos\MicroBlogging\DAL\obj\Debug\DAL.Migrations.initial.resources
+C:\Users\kripajha\source\repos\MicroBlogging\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\kripajha\source\repos\MicroBlogging\DAL\bin\Debug\ModelsDTO.dll.config

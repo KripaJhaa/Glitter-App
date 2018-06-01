@@ -1,0 +1,2 @@
+C:\Users\kripajha\source\repos\MicroBlogging\ForApiRequest\obj\Debug\ForApiRequest.csprojResolveAssemblyReference.cache
+C:\Users\kripajha\source\repos\MicroBlogging\ForApiRequest\obj\Debug\ForApiRequest.csproj.CoreCompileInputs.cache
