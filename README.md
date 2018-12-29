@@ -1,5 +1,5 @@
 # GlitterApp :guardsman:
-> ###  Micro blogging Application build on Asp.net Mvc in Backedend and Angular 6 for Front-End.
+> ###  Micro blogging Application build on Nodejs Express and Some of the Apis using Asp.net Mvc in Backedend and Angular 6 CLI for Front-End.
 Implimented using MVC model and N-tier architecture Done basic  functionality like:
 1. User can Add/Edit/Delete their tweet post :arrow_heading_down:
 2. User can see tweet who they follow :information_desk_person:
